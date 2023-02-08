@@ -5,7 +5,7 @@
 
 - simple cpp port scanner (i know you can use nmap) [Port scanner](https://github.com/nopetoyou1111/cpp-port-scanner)
 
-- idk why a code this??? [modern-dashboard](https://github.com/nopetoyou1111/modern-dashboard)
+- idk why I code this??? [modern-dashboard](https://github.com/nopetoyou1111/modern-dashboard)
 
 - Web dev 💻 **MERN/Next.js**
 
