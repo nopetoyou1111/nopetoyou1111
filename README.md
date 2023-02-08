@@ -1,4 +1,4 @@
-# Hi iam nopetoyou1111! 
+# Hi I am nopetoyou1111! 
 ![mona-whisper](https://user-images.githubusercontent.com/108734462/217575349-95466a4c-ca28-4230-96cc-8077c7b682ed.gif)
 
 - a cli for john to make the usage easy (: [John the ripper cli](https://github.com/nopetoyou1111/John-the-ripper-cli)
