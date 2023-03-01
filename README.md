@@ -11,6 +11,8 @@
 
 - email **nopetoyou11@gmail.com**
 
+- discord *p$y¢#9121*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
